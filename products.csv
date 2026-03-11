@@ -1,0 +1,11 @@
+ItemCode,Name,Price,WeightSize,MfgDate,ExpDate,Manufacturer,DiscountPercent
+GR001,Organic Banana,45.50,1 kg,2026-03-01,2026-03-20,FreshFarm Ltd,10.0
+GR002,Local Red Rice,180.00,5 kg,2026-02-15,2027-02-15,RiceMill Co,5.0
+GR003,Full Cream Milk,220.00,1 L,2026-03-08,2026-03-18,Lakspray,0.0
+GR004,Sunflower Oil,650.00,1 L,2025-12-01,2026-12-01,Dalda,15.0
+GR005,White Sugar,210.00,1 kg,2026-01-10,2027-01-10,Ceylon Sugar,0.0
+GR006,Chicken Sausages,350.00,500 g,2026-03-05,2026-03-12,Prima,20.0
+GR007,Mango Juice,95.00,1 L,2026-02-20,2026-08-20,Elephant House,5.0
+GR008,Wheat Flour,145.00,1 kg,2026-01-15,2026-07-15,Prima,0.0
+GR009,Strawberry Yogurt,120.00,200 g,2026-03-09,2026-03-16,Cargills,10.0
+GR010,Expired Test Item,50.00,100 g,2024-01-01,2024-06-01,OldBrand,0.0
